@@ -67,12 +67,13 @@ background-color: rgb(198, 228, 255);
   gap: 50px;
 }
 .display-2 {
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.303);
   height: 60px;
   padding-left: 15px;
   font-size: 20px;
   border-radius:5px ;
   display: flex;
+  color: white;
   justify-content: flex-start;
   align-items: center;
   width: 100%;
